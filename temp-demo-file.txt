@@ -1,0 +1,5 @@
+This is a temporary demo file created for testing purposes.
+It will be deleted shortly to demonstrate the delete functionality.
+
+Created on: 2025-01-28
+Purpose: GitHub API demonstration
