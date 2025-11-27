@@ -1,2 +1,0 @@
-This is a test file created via MCP GitHub server tools.
-Created for testing collaboration repository operations.
